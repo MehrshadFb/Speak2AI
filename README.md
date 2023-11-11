@@ -11,7 +11,7 @@ This Python application performs real-time audio-to-text conversion, utilizing P
 
 ## Installation
 ```bash
-pip install pyaudio websockets asyncio base64 json python-dotenv
+pip install pyaudio websockets asyncio base64 json python-dotenv openai
 ```
 
 ## Usage
